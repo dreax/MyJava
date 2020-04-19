@@ -1,5 +1,5 @@
 
-- [Java 基础](#java---)
+- [Java 基础](#docs/javabase.md)
   * [JDK 和 JRE 有什么区别？](#JDK 和 JRE 有什么区别？)
   * [== 和 equals 的区别是什么？](#-----equals--------)
   * [两个对象的 hashCode()相同，则 equals()也一定为 true，对吗？](#------hashcode-------equals-------true----)
@@ -144,8 +144,6 @@
 - [RabbitMQ](#rabbitmq)
 - [反射](#--)
 - [异常](#--)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Java 基础
