@@ -1,5 +1,5 @@
 
-- [Java 基础](./docs/javabase.md)
+- [Java 基础](https://github.com/dreax/MyJava/blob/master/README.md#Java 基础)
   * [JDK 和 JRE 有什么区别？](#JDK 和 JRE 有什么区别？)
   * [== 和 equals 的区别是什么？](#-----equals--------)
   * [两个对象的 hashCode()相同，则 equals()也一定为 true，对吗？](#------hashcode-------equals-------true----)
