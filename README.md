@@ -1,5 +1,5 @@
 
-- [Java 基础](https://github.com/dreax/MyJava/blob/master/README.md#Java 基础)
+- [Java基础](https://github.com/dreax/MyJava/blob/master/README.md#Java基础)
   * [JDK 和 JRE 有什么区别？](#JDK 和 JRE 有什么区别？)
   * [== 和 equals 的区别是什么？](#-----equals--------)
   * [两个对象的 hashCode()相同，则 equals()也一定为 true，对吗？](#------hashcode-------equals-------true----)
@@ -146,7 +146,7 @@
 - [异常](#--)
 
 
-## Java 基础
+## Java基础
 ### JDK 和 JRE 有什么区别？
 
 `JDK 是 Java Development Kit，它是功能齐全的 Java SDK。它拥有 JRE 所拥有的一切，还有编译器（javac）和工具（如 javadoc 和 jdb）。它能够创建和编译程序。`
