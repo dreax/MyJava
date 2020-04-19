@@ -1,6 +1,6 @@
 
 - [Java 基础](#java---)
-  * [JDK 和 JRE 有什么区别？](#jdk---jre-------)
+  * [JDK 和 JRE 有什么区别？](#JDK 和 JRE 有什么区别？)
   * [== 和 equals 的区别是什么？](#-----equals--------)
   * [两个对象的 hashCode()相同，则 equals()也一定为 true，对吗？](#------hashcode-------equals-------true----)
   * [final 在 java 中有什么作用？](#final---java--------)
